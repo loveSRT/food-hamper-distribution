@@ -41,8 +41,7 @@ Key techniques include:
 - Python 
 - Pandas, NumPy
 - Matplotlib, Seaborn, Folium
-- GeoPandas (if used)
-- Open-source socio-economic datasets
+- datasets
 
 ### Repository Structure
 
