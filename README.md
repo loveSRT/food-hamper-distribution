@@ -1,55 +1,54 @@
-# Islamic Family Food Hamper Distribution Optimization
+<p align="center" draggable="false">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8HNB-ex4xb4H3-PXRcywP5zKC_3U8VzQTPA&usqp=CAU" 
+       width="200px" 
+       height="auto"/>
+</p>
 
-## Overview
+<h1 align="center" id="heading"># Islamic Family Food Hamper Optimization - Team Members: [Your Name Here]</h1>
 
-This project, developed as part of a data science initiative, aims to enhance the efficiency of food hamper distribution by the **Islamic Family** organization in Edmonton. By leveraging historical distribution data and key socio-economic indicators, this analysis identifies geographic regions with high or low demand, enabling better-targeted outreach and resource allocation.
+---
 
-## Objective
+### PROJECT TITLE: Islamic Family Food Hamper Distribution Optimization
 
-To:
-- Analyze historical food hamper distribution data in Edmonton.
-- Identify socio-economic trends that correlate with hamper demand.
-- Pinpoint areas that require more support or could benefit from mobile distribution units.
-- Provide actionable insights to improve accessibility and service delivery.
+Welcome to the repository for our Capstone project at Norquest College. This project aims to enhance the efficiency of food hamper distribution by the **Islamic Family** organization in Edmonton. By leveraging historical data and socio-economic factors, we identify areas with high or low demand to optimize service delivery.
 
-## Dataset
+### Problem Statement
 
-The project uses:
-- Historical food hamper request and delivery records.
-- Publicly available socio-economic data (e.g., census income, population density).
-- Geographic boundary data for neighborhood-level analysis.
+The Islamic Family organization distributes food hampers across Edmonton. However, there are gaps in reaching certain communities due to fluctuating demand, lack of geographic visibility, and socio-economic variability. There’s a need for data-driven decision-making to better target outreach and resources.
 
-## Methods
+### Solution
 
-Key techniques include:
-- Data cleaning and preprocessing.
-- Exploratory data analysis (EDA).
-- Correlation analysis between socio-economic indicators and hamper demand.
-- Geographic heatmapping and clustering.
-- Visualization of distribution trends using Python libraries such as `pandas`, `matplotlib`, `seaborn`, and `folium`.
+- Conducted data preprocessing and exploratory data analysis (EDA).
+- Analyzed historical hamper distribution data and socio-economic indicators.
+- Used visualization tools to identify trends and underserved regions.
+- Proposed recommendations for mobile distribution points based on demand mapping.
 
-## Key Findings (Summary)
+### Repository Structure
 
-- Specific neighborhoods showed consistently high demand for food hampers.
-- Demand correlates strongly with lower household income and higher population density.
-- Some underserved areas could benefit from mobile distribution points due to distance from fixed centers.
+The repository contains the following files:
 
-## Tools & Technologies
+- `CMPT3835Project.ipynb`: Jupyter Notebook containing all analysis, visualizations, and insights.
+- `README.md`: This file, describing the purpose and structure of the project.
+- *(Optional future additions)* `data.csv`: Contains cleaned data used for the analysis.
+- *(Optional)* `requirements.txt`: List of Python packages required to run the notebook.
 
-- Python (Jupyter Notebook)
-- Pandas, NumPy
-- Matplotlib, Seaborn, Folium
-- GeoPandas (if used)
-- Open-source socio-economic datasets
+### Getting Started
 
+To get started with our project, clone the repository and install the required dependencies. The dependencies are listed below.
 
-## Future Work
+```bash
+pip install pandas numpy matplotlib seaborn folium geopandas
+```
 
-- Incorporate real-time data feeds (if available).
-- Develop a predictive model for future hamper needs.
-- Build an interactive dashboard for stakeholders.
+Then open the notebook using Jupyter:
 
-## Acknowledgments
+```bash
+jupyter notebook CMPT3835Project.ipynb
+```
+
+---
+
+### Acknowledgments
 
 - Islamic Family for providing access to distribution data.
 - Open Data Edmonton and Statistics Canada for socio-economic datasets.
