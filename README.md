@@ -42,19 +42,6 @@ Key techniques include:
 - GeoPandas (if used)
 - Open-source socio-economic datasets
 
-## How to Run
-
-1. Install required Python packages:
-   ```bash
-   pip install pandas numpy matplotlib seaborn folium geopandas
-   ```
-
-2. Open the notebook file:
-   ```
-   Islamic Family Food Hamper Optimization.ipynb
-   ```
-3. upload the data 
-4. Follow the step-by-step cells to explore the data and visualizations.
 
 ## Future Work
 
