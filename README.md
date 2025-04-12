@@ -26,23 +26,23 @@ The Islamic Family organization distributes food hampers across Edmonton. Howeve
 ###Methods
 Key techniques include:
 
--Data cleaning and preprocessing.
--Exploratory data analysis (EDA).
--Correlation analysis between socio-economic indicators and hamper demand.
--Geographic heatmapping and clustering.
--Visualization of distribution trends using Python libraries such as pandas, matplotlib, seaborn, and folium.
+- Data cleaning and preprocessing.
+- Exploratory data analysis (EDA).
+- Correlation analysis between socio-economic indicators and hamper demand.
+- Geographic heatmapping and clustering.
+- Visualization of distribution trends using Python libraries such as pandas, matplotlib, seaborn, and folium.
 
 ####Key Findings (Summary)
--Specific neighborhoods showed consistently high demand for food hampers.
--Demand correlates strongly with lower household income and higher population density.
--Some underserved areas could benefit from mobile distribution points due to distance from fixed centers.
+- Specific neighborhoods showed consistently high demand for food hampers.
+- Demand correlates strongly with lower household income and higher population density.
+- Some underserved areas could benefit from mobile distribution points due to distance from fixed centers.
 
 Tools & Technologies
--Python 
--Pandas, NumPy
--Matplotlib, Seaborn, Folium
--GeoPandas (if used)
--Open-source socio-economic datasets
+- Python 
+- Pandas, NumPy
+- Matplotlib, Seaborn, Folium
+- GeoPandas (if used)
+- Open-source socio-economic datasets
 
 ### Repository Structure
 
