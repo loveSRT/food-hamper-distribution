@@ -4,7 +4,7 @@
        height="auto"/>
 </p>
 
-<h1 align="center" id="heading"># Islamic Family Food Hamper Optimization - Team Members: [Your Name Here]</h1>
+<h1 align="center" id="heading"># Islamic Family Food Hamper Optimization - Team Members: [Love Maan]</h1>
 
 ---
 
@@ -23,14 +23,35 @@ The Islamic Family organization distributes food hampers across Edmonton. Howeve
 - Used visualization tools to identify trends and underserved regions.
 - Proposed recommendations for mobile distribution points based on demand mapping.
 
+###Methods
+Key techniques include:
+
+-Data cleaning and preprocessing.
+-Exploratory data analysis (EDA).
+-Correlation analysis between socio-economic indicators and hamper demand.
+-Geographic heatmapping and clustering.
+-Visualization of distribution trends using Python libraries such as pandas, matplotlib, seaborn, and folium.
+
+####Key Findings (Summary)
+-Specific neighborhoods showed consistently high demand for food hampers.
+-Demand correlates strongly with lower household income and higher population density.
+-Some underserved areas could benefit from mobile distribution points due to distance from fixed centers.
+
+Tools & Technologies
+-Python 
+-Pandas, NumPy
+-Matplotlib, Seaborn, Folium
+-GeoPandas (if used)
+-Open-source socio-economic datasets
+
 ### Repository Structure
 
 The repository contains the following files:
 
 - `CMPT3835Project.ipynb`: Jupyter Notebook containing all analysis, visualizations, and insights.
 - `README.md`: This file, describing the purpose and structure of the project.
-- *(Optional future additions)* `data.csv`: Contains cleaned data used for the analysis.
-- *(Optional)* `requirements.txt`: List of Python packages required to run the notebook.
+- `Fcfm1.Auto.cleanedFood Hampers Fact_CMPT3835.csv`: Contains cleaned data used for the analysis.
+- `requirements.txt`: List of Python packages required to run the notebook.
 
 ### Getting Started
 
@@ -48,7 +69,13 @@ jupyter notebook CMPT3835Project.ipynb
 
 ---
 
-### Acknowledgments
+### link to application
 
-- Islamic Family for providing access to distribution data.
-- Open Data Edmonton and Statistics Canada for socio-economic datasets.
+https://food-demand123.streamlit.app/
+
+### Team members
+
+Sahil chand 
+Love Maan
+Manveen Kaur
+Getachew 
