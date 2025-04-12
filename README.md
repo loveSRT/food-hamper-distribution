@@ -23,7 +23,7 @@ The Islamic Family organization distributes food hampers across Edmonton. Howeve
 - Used visualization tools to identify trends and underserved regions.
 - Proposed recommendations for mobile distribution points based on demand mapping.
 
-###Methods
+### Methods
 Key techniques include:
 
 - Data cleaning and preprocessing.
@@ -32,12 +32,12 @@ Key techniques include:
 - Geographic heatmapping and clustering.
 - Visualization of distribution trends using Python libraries such as pandas, matplotlib, seaborn, and folium.
 
-####Key Findings (Summary)
+### Key Findings (Summary)
 - Specific neighborhoods showed consistently high demand for food hampers.
 - Demand correlates strongly with lower household income and higher population density.
 - Some underserved areas could benefit from mobile distribution points due to distance from fixed centers.
 
-Tools & Technologies
+### Tools & Technologies
 - Python 
 - Pandas, NumPy
 - Matplotlib, Seaborn, Folium
@@ -75,7 +75,7 @@ https://food-demand123.streamlit.app/
 
 ### Team members
 
-Sahil chand 
-Love Maan
-Manveen Kaur
-Getachew 
+- Sahil chand 
+- Love Maan
+- Manveen Kaur
+- Getachew 
